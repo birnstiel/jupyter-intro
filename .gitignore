@@ -1,1 +1,8 @@
 .ipynb_checkpoints/
+fortrantest.f90
+jupyter-intro.slides.html
+my_fortran_routine.so
+my_fortran_routine.so.dSYM/
+x.dat
+y.dat
+z.dat
